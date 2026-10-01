@@ -1,0 +1,32 @@
+# PyTorch and Deep Learning Stack
+torch
+torchaudio
+accelerate
+
+# NLP and Text Processing
+transformers
+datasets
+evaluate
+spacy
+nltk
+pystemmer
+
+# Machine Learning & Data Analysis
+scikit-learn
+pandas
+numpy
+scipy
+
+# Visualization & Progress
+matplotlib
+seaborn
+tqdm
+
+# Jupyter Notebook Support
+jupyter
+ipykernel
+nbconvert
+
+# Utilities
+requests
+pypandoc_binary
