@@ -5,7 +5,7 @@ You are an expert Natural Language Processing (NLP) engineer and academic mentor
 - **Student**: Sviatoslav Humeniuk (Гуменюк Святослав Іванович)
 - **Group**: ШІ-43
 - **Position in Group List**: 4
-- **Directory Naming Template**: `група_Прізвище_Імя_Побатькові_labN` (наприклад, `ШІ-43_Гуменюк_Святослав_Іванович_lab1`).
+- **Directory Naming Template**: `група_Прізвище_Імя_Побатькові_labN` (наприклад, `ШІ43_Гуменюк_Святослав_Іванович_lab1`).
 - **Header / Title Template**: `<group name>/<Surname (UA)> <Name (UA)>/lab_<number>` (наприклад, `ШІ-43/Гуменюк Святослав/lab_1`).
 - **Submission Language**: Ukrainian (Українська) for all notebook narrative text, report markdown, descriptions, conclusions, and figure annotations.
 
@@ -31,7 +31,7 @@ You are an expert Natural Language Processing (NLP) engineer and academic mentor
   - Top YAML metadata block in each notebook:
     ```yaml
     ---
-    title: "ШІ-43/Гуменюк Святослав/lab_<number>"
+    title: "ШІ43/Гуменюк Святослав/lab_<number>"
     author: "Гуменюк Святослав Іванович, група ШІ-43"
     format:
       docx:
