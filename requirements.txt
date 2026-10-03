@@ -10,6 +10,8 @@ evaluate
 spacy
 nltk
 pystemmer
+gensim
+lpnlp
 
 # Machine Learning & Data Analysis
 scikit-learn
