@@ -1,34 +1,25 @@
-# PyTorch and Deep Learning Stack
-torch
-torchaudio
 accelerate
-
-# NLP and Text Processing
-transformers
 datasets
 evaluate
-spacy
-nltk
-pystemmer
 gensim
-lpnlp
-
-# Machine Learning & Data Analysis
-scikit-learn
-pandas
-numpy
-scipy
-
-# Visualization & Progress
-matplotlib
-seaborn
-tqdm
-
-# Jupyter Notebook Support
-jupyter
+groq
 ipykernel
+jupyter
+lpnlp
+matplotlib
 nbconvert
-
-# Utilities
-requests
+nltk
+numpy
+pandas
 pypandoc_binary
+pystemmer
+requests
+scikit-learn
+scipy
+seaborn
+spacy
+streamlit
+torch
+torchaudio
+tqdm
+transformers
