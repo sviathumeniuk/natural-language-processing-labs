@@ -29,6 +29,7 @@ def humorize(text: str, style: str, api_key: str) -> str:
             {"role": "user", "content": f"Форма: {style} — {HUMOR_STYLES[style]}.\nРечення: {text}"},
         ],
     )
+
     return response.choices[0].message.content.strip()
 
 
